@@ -13,7 +13,7 @@ public class NumberUtils {
      * <p/>
      * <p />
      * <b>Required Permissions:</b><br />
-     * None.
+     * None
      * </p>
      *
      * @param stringObject String to be checked
